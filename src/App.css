@@ -1,0 +1,81 @@
+.app {
+  text-align: center;
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+}
+
+
+ul {
+ 
+  list-style: none;
+}
+
+li {
+  margin: 12px 0;
+}
+
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+
+  border: none;
+  color: white;
+  border-radius: 4px;
+
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+
+.app{
+
+     width: 430px;
+     min-height: 400px;
+     padding: 2rem 1rem;
+     margin: 50px auto;
+     margin-top: 150px;
+     color: #fff;
+     background-color: #353535;
+     border-radius: 15px;
+     text-align: center;
+     align-items: center;
+     box-shadow: 0 20px 35px rgba(0, 0, 0, 0.5);
+ }
+ 
+
+ 
+ input{
+  width: 92%;
+  outline: none;
+  padding: .5rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  background-color: #e4e4e4;
+}
+
+
+
+
+.button{
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  background-color: rgb(243, 243, 243);
+  color: black;
+  cursor: pointer;
+}
+
+.button:hover{
+ 
+  background-color:#284B63;
+  color: #fff;
+}
